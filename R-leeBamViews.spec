@@ -10,12 +10,13 @@ Group:            Sciences/Mathematics
 License:          Artistic 2.0
 URL:              None
 Source0:          http://bioconductor.org/packages/data/experiment/src/contrib/leeBamViews_0.99.13.tar.gz
-Requires:         R-Biobase R-Rsamtools R-BSgenome 
-Requires:         R-GenomicRanges R-methods 
-Requires:         R-GenomeGraphs R-biomaRt R-org.Sc.sgd.db R-edgeR 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-Biobase R-Rsamtools R-BSgenome
-BuildRequires:    R-GenomicRanges R-methods 
-BuildRequires:    R-GenomeGraphs R-biomaRt R-org.Sc.sgd.db R-edgeR 
+Requires:         R-Biobase R-Rsamtools R-BSgenome
+Requires:         R-GenomicRanges R-methods
+Requires:         R-GenomeGraphs R-biomaRt R-org.Sc.sgd.db R-edgeR
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-Biobase R-Rsamtools R-BSgenome
+BuildRequires:    R-GenomicRanges R-methods
+BuildRequires:    R-GenomeGraphs R-biomaRt R-org.Sc.sgd.db R-edgeR
 
 %description
 data from PMID 19096707; prototype for managing multiple NGS samples
