@@ -4,7 +4,7 @@
 
 Name:             R-%{packname}
 Version:          0.99.13
-Release:          1
+Release:          2
 Summary:          leeBamViews -- multiple yeast RNAseq samples excerpted from Lee 2009
 Group:            Sciences/Mathematics
 License:          Artistic 2.0
